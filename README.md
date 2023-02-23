@@ -14,7 +14,7 @@ To run the program for RRT* Smart, execute the rrt_start_smart.py file:
 
 This will launch the visualization window. You can modify the start and goal positions, as well as the obstacle positions, in the main function of the code. The obstacles are listed as tuples represented by (x,y,radius)(* Obstacles here are circles).
 
-Other factors like bias in case of *smart algorithms can be changes in the RRT_star function.
+Other factors like bias in case of *smart algorithms can be changed in the RRT_star function.
 
 There are also other variations of the RRT algorithm in the codes folder like basic RRT, RRT* and RRT-smart. 
 
